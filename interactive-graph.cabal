@@ -19,6 +19,6 @@ executable interactive-graph
   main-is:             Main.hs
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       base >=4.6 && <4.7, attoparsec, bytestring
+  build-depends:       base >=4.6 && <4.7, attoparsec, bytestring, threepenny-gui
   hs-source-dirs:      src/
   default-language:    Haskell2010

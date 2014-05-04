@@ -1,0 +1,57 @@
+[root]
+Start
+[[understand]Next]
+
+[understand]
+Do you understand flow charts?
+[[good]Yes]
+[[okay]No]
+
+[good]
+Good
+[[drink]Yes]
+
+[drink]
+Let's go drink.
+[[freeBSD]6 Drinks]
+
+[freeBSD]
+Hey, I should try installing FreeBSD!
+
+[okay]
+Okay. You see the line labeled "Yes"?
+[[and]Yes]
+[[but]No]
+
+[and]
+...and you can see the ones labeled "No"?
+[[good]Yes]
+[[just followed]No]
+
+[just followed]
+But you just followed them twice!
+[[not?]Yes]
+[[not?]No]
+
+[not?]
+(That wasn't a question)
+[[screwit]Next]
+
+[screwit]
+Screw it.
+[[drink]Next]
+
+[but]
+But you see the ones labeled "No".
+[[waitwat]Yes]
+[[Hey, listen!]No]
+
+[waitwat]
+Wait, what?
+
+[Hey, listen!]
+Listen.
+[[hate]Next]
+
+[hate]
+I hate you.
