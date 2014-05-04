@@ -1,0 +1,37 @@
+[root]
+Start
+[[find]Next]
+
+[find]
+Find a menu item or button which looks related to what you want to do.
+[[can't find]I can't find one]
+[[click]OK]
+
+[can't find]
+Pick one at random.
+[[click]OK]
+[[google]I've tried them all]
+
+[click]
+Click it.
+[[work]Next]
+
+[work]
+Did it work?
+[[time]No]
+[[done]Yes]
+
+[done]
+You're done!
+
+[time]
+Have you been trying this for over half an hour?
+[[find]No]
+[[halp]Yes]
+
+[halp]
+Ask someone for help or give up.
+
+[google]
+Google the name of the program plus a few words related to what you want to do. Follow any instructions.
+[[work]Next]
